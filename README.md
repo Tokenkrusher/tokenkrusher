@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛵ TokenKrusher
+# TokenKrusher
 
 ### Crush your Claude Code token spend.
 
