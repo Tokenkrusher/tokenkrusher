@@ -75,7 +75,9 @@ Attach a plan to a chat and TokenKrusher keeps it in view on every prompt. It ch
 
 *Savings are shown as usage value at API list prices: an estimate, not a bill.*
 
-### 🖥️ Desktop console (Windows, shipped separately from the plugin)
+### 🖥️ Desktop console (Windows)
+
+[**Download TokenKrusher Console →**](https://github.com/Tokenkrusher/tokenkrusher/releases/latest) · same £2.50/month subscription as the plugin: the app asks for the email you paid with on first launch. It starts with Windows by default and stays running in the tray until you choose **Quit** there. Windows may show a SmartScreen warning because the app isn't code-signed yet: choose *More info → Run anyway*.
 
 - A tray icon that changes colour with your usage and chat health.
 - A compact window with live meters, your open chats, tips and the daily chart.
