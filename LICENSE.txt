@@ -1,0 +1,3 @@
+TokenKrusher. Copyright (c) TokenKrusher. All rights reserved.
+This software is provided as a compiled binary for use with Claude Code. You may not copy, modify,
+reverse engineer, redistribute or resell it. Contact: purecycle.contact@gmail.com
