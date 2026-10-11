@@ -7,7 +7,6 @@
 **Keep every chat cheap, focused and on course.**
 
 ![Price](https://img.shields.io/badge/price-%C2%A32.50%20%2F%20month-3b9cff?style=for-the-badge)
-![£2.50/month](https://img.shields.io/badge/%C2%A32.50-per%20month-3ecf8e?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Claude%20Code-plugin-f5c518?style=for-the-badge)
 ![Private](https://img.shields.io/badge/runs-100%25%20local-7cc0ff?style=for-the-badge)
 
@@ -107,8 +106,11 @@ TokenKrusher shines on **maintenance work**: bug fixes, small changes and long-r
 
 ## 📦 Install (Claude Code 2.1.275 or later)
 
+Run these in a normal terminal (not inside the chat panel):
+
 ```
-/plugin install tokenkrusher --marketplace Tokenkrusher/tokenkrusher
+claude plugin marketplace add Tokenkrusher/tokenkrusher
+claude plugin install tokenkrusher@tokenkrusher
 ```
 
 Windows is supported today.
