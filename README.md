@@ -11,7 +11,7 @@
 ![Platform](https://img.shields.io/badge/Claude%20Code-plugin-f5c518?style=for-the-badge)
 ![Private](https://img.shields.io/badge/runs-100%25%20local-7cc0ff?style=for-the-badge)
 
-[**Subscribe for £2.50 / month →**](https://buy.stripe.com/REPLACE_WITH_LIVE_LINK)
+[**Subscribe for £2.50 / month →**](https://buy.stripe.com/3cIfZg4JveA28hr3dm6c000)
 
 </div>
 
@@ -102,7 +102,7 @@ TokenKrusher shines on **maintenance work**: bug fixes, small changes and long-r
 
 **£2.50 per month.** Cancel any time. Every install starts with a **14-day free trial**, no card needed.
 
-1. [Subscribe here](https://buy.stripe.com/REPLACE_WITH_LIVE_LINK).
+1. [Subscribe here](https://buy.stripe.com/3cIfZg4JveA28hr3dm6c000).
 2. In Claude Code, run `/tokenkrusher-activate <the email you paid with>`.
 
 ## 📦 Install (Claude Code 2.1.275 or later)
