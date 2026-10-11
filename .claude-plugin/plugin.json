@@ -1,0 +1,8 @@
+{
+  "name": "tokenkrusher",
+  "displayName": "TokenKrusher",
+  "version": "0.1.0",
+  "description": "Cuts Claude Code token spend: tracks usage and pace, suggests cheaper routing, keeps long chats on plan, and offers one-click fixes.",
+  "author": { "name": "TokenKrusher", "email": "purecycle.contact@gmail.com" },
+  "keywords": ["tokens", "cost", "usage", "routing", "efficiency"]
+}

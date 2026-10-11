@@ -108,7 +108,7 @@ TokenKrusher shines on **maintenance work**: bug fixes, small changes and long-r
 ## 📦 Install (Claude Code 2.1.275 or later)
 
 ```
-/plugin install tokenkrusher --marketplace <owner>/<repo>
+/plugin install tokenkrusher --marketplace Tokenkrusher/tokenkrusher
 ```
 
 Windows is supported today.

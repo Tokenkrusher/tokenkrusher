@@ -1,0 +1,19 @@
+{
+  "description": "TokenKrusher pace, economics and plan-keeping advice (advisory only; fails open)",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/bin/tokenkrusher.exe",
+            "args": [
+              "hook"
+            ],
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

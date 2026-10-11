@@ -1,0 +1,15 @@
+{
+  "name": "tokenkrusher",
+  "owner": {
+    "name": "TokenKrusher",
+    "email": "purecycle.contact@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "tokenkrusher",
+      "source": "./",
+      "description": "Cuts Claude Code token spend: usage and pace tracking, cheaper-routing advice, plan keeping and one-click fixes."
+    }
+  ],
+  "description": "TokenKrusher for Claude Code: cuts token spend with usage and pace tracking, routing advice and plan keeping."
+}
