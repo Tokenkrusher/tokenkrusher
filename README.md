@@ -10,7 +10,7 @@
 ![Platform](https://img.shields.io/badge/Claude%20Code-plugin-f5c518?style=for-the-badge)
 ![Private](https://img.shields.io/badge/runs-100%25%20local-7cc0ff?style=for-the-badge)
 
-[**Subscribe for £2.50 / month →**](https://buy.stripe.com/3cIfZg4JveA28hr3dm6c000)
+[**Subscribe for £2.50 / month →**](https://buy.stripe.com/3cIfZg4JveA28hr3dm6c000) · [**Download the Console →**](https://github.com/Tokenkrusher/tokenkrusher/releases/latest)
 
 </div>
 
@@ -93,6 +93,7 @@ Attach a plan to a chat and TokenKrusher keeps it in view on every prompt. It ch
 | `/tokenkrusher-tips` | Show tips for this chat with their one-click actions. |
 | `/tokenkrusher-act <tip-id>` | Run a tip's action. |
 | `/tokenkrusher-keel` | Plan-keel status for this chat. |
+| `/tokenkrusher-console` | Subscribe and desktop console download links (same as this page). |
 | `/tokenkrusher-activate <email>` | Unlock after subscribing. |
 
 ## 🎯 When it pays off most
